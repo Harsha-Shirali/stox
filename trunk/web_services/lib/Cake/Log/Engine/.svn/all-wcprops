@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Log/Engine
+END
+BaseLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Log/Engine/BaseLog.php
+END
+FileLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Log/Engine/FileLog.php
+END
+ConsoleLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Log/Engine/ConsoleLog.php
+END

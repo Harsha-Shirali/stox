@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/test_app/Plugin/TestPluginTwo/Console/Command
+END
+ExampleShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/test_app/Plugin/TestPluginTwo/Console/Command/ExampleShell.php
+END
+WelcomeShell.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/test_app/Plugin/TestPluginTwo/Console/Command/WelcomeShell.php
+END

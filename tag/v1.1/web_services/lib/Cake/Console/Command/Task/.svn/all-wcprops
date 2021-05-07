@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task
+END
+BakeTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/BakeTask.php
+END
+ControllerTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/ControllerTask.php
+END
+FixtureTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/FixtureTask.php
+END
+ProjectTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/ProjectTask.php
+END
+ExtractTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/ExtractTask.php
+END
+ViewTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/ViewTask.php
+END
+DbConfigTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/DbConfigTask.php
+END
+TemplateTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/TemplateTask.php
+END
+PluginTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/PluginTask.php
+END
+TestTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/TestTask.php
+END
+ModelTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Command/Task/ModelTask.php
+END

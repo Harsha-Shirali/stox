@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/WatchlistPreloads
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/880/trunk/web_services/app/View/WatchlistPreloads/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/880/trunk/web_services/app/View/WatchlistPreloads/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/880/trunk/web_services/app/View/WatchlistPreloads/add.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/880/trunk/web_services/app/View/WatchlistPreloads/view.ctp
+END
+gamemaster_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/WatchlistPreloads/gamemaster_index.ctp
+END

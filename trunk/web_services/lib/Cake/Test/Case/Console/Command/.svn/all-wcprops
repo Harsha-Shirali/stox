@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command
+END
+ApiShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command/ApiShellTest.php
+END
+CommandListShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command/CommandListShellTest.php
+END
+AclShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command/AclShellTest.php
+END
+TestShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command/TestShellTest.php
+END
+SchemaShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command/SchemaShellTest.php
+END
+BakeShellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Console/Command/BakeShellTest.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View
+END
+HelperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/HelperTest.php
+END
+JsonViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/JsonViewTest.php
+END
+MediaViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/MediaViewTest.php
+END
+ViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/ViewTest.php
+END
+HelperCollectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/HelperCollectionTest.php
+END
+XmlViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/XmlViewTest.php
+END
+ScaffoldViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/ScaffoldViewTest.php
+END
+ThemeViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/View/ThemeViewTest.php
+END

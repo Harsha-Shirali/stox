@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts
+END
+login.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts/login.ctp
+END
+error.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts/error.ctp
+END
+front-end.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts/front-end.ctp
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts/flash.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/View/Layouts/default.ctp
+END

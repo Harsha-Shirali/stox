@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/View/Emails/html
+END
+image.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/View/Emails/html/image.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/View/Emails/html/default.ctp
+END
+japanese.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/View/Emails/html/japanese.ctp
+END
+custom.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/View/Emails/html/custom.ctp
+END
+nested_element.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/View/Emails/html/nested_element.ctp
+END

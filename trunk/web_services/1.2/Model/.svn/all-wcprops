@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model
+END
+Portfolio.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Portfolio.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/User.php
+END
+WatchlistMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/WatchlistMapping.php
+END
+UserLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/UserLog.php
+END
+Exchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Exchange.php
+END
+UserStock.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/UserStock.php
+END
+Loser.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Loser.php
+END
+Feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Feedback.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Transaction.php
+END
+Notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Notification.php
+END
+SymbolDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/SymbolDetail.php
+END
+Contact.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Contact.php
+END
+AppModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/AppModel.php
+END
+Share.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Share.php
+END
+Watchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Watchlist.php
+END
+UserstockHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/UserstockHistory.php
+END
+Gainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Gainer.php
+END
+Faq.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Faq.php
+END
+Game.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Game.php
+END
+WatchlistPreload.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/WatchlistPreload.php
+END
+Bank.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Bank.php
+END
+Active.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Model/Active.php
+END

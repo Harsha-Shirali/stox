@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/view.ctp
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/admin_edit.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/admin_index.ctp
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/admin_add.ctp
+END
+admin_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/admin_view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Faqs/add.ctp
+END

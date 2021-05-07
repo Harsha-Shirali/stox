@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Test/Case/Controller
+END
+ExchangesControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Test/Case/Controller/ExchangesControllerTest.php
+END
+SharefeedsControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Test/Case/Controller/SharefeedsControllerTest.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1082/trunk/web_services/app/webroot/files/pemfiles
+END
+topStox-dev.pem
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/1081/trunk/web_services/app/webroot/files/pemfiles/topStox-dev.pem
+END
+STOX.pem
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/819/trunk/web_services/app/webroot/files/pemfiles/STOX.pem
+END
+apns-dev.pem
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/1080/trunk/web_services/app/webroot/files/pemfiles/apns-dev.pem
+END
+STOX-PROD.pem
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stox_web/!svn/ver/1141/trunk/web_services/app/webroot/files/pemfiles/STOX-PROD.pem
+END
+topStox.pem
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/934/trunk/web_services/app/webroot/files/pemfiles/topStox.pem
+END
+topStox-Production.pem
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/1082/trunk/web_services/app/webroot/files/pemfiles/topStox-Production.pem
+END

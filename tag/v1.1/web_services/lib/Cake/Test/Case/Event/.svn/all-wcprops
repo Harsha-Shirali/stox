@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Event
+END
+CakeEventManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Event/CakeEventManagerTest.php
+END
+CakeEventTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Event/CakeEventTest.php
+END

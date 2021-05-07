@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Email
+END
+SmtpTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Email/SmtpTransportTest.php
+END
+DebugTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Email/DebugTransportTest.php
+END
+CakeEmailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Email/CakeEmailTest.php
+END
+MailTransportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Email/MailTransportTest.php
+END

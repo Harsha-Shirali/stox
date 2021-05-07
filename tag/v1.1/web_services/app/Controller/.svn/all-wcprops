@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller
+END
+ExchangesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/ExchangesController.php
+END
+UserStocksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/UserStocksController.php
+END
+FeedbacksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/FeedbacksController.php
+END
+TransactionsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/TransactionsController.php
+END
+SharefeedsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/SharefeedsController.php
+END
+ContactsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/ContactsController.php
+END
+AppController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/AppController.php
+END
+SharesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/SharesController.php
+END
+WatchlistsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/WatchlistsController.php
+END
+FaqsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/FaqsController.php
+END
+ContactusesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/ContactusesController.php
+END
+GamesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/GamesController.php
+END
+ApisController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/ApisController.php
+END
+BanksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/BanksController.php
+END
+PagesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/PagesController.php
+END
+PortfoliosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/PortfoliosController.php
+END
+UsersController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/UsersController.php
+END
+UserLogsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/Controller/UserLogsController.php
+END

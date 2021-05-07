@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/Notifications
+END
+gamemaster_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/Notifications/gamemaster_edit.ctp
+END
+gamemaster_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/Notifications/gamemaster_index.ctp
+END
+gamemaster_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/Notifications/gamemaster_add.ctp
+END
+gamemaster_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/View/Notifications/gamemaster_view.ctp
+END

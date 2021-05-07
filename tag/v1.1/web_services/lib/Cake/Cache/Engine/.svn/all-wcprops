@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine
+END
+FileEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine/FileEngine.php
+END
+WincacheEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine/WincacheEngine.php
+END
+MemcacheEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine/MemcacheEngine.php
+END
+ApcEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine/ApcEngine.php
+END
+RedisEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine/RedisEngine.php
+END
+XcacheEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Cache/Engine/XcacheEngine.php
+END

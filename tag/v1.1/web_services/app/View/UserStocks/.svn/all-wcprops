@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/add.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/view.ctp
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/admin_edit.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/admin_index.ctp
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/admin_add.ctp
+END
+admin_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/admin_view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserStocks/edit.ctp
+END

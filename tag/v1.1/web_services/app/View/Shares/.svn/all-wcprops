@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Shares
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Shares/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Shares/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Shares/add.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Shares/view.ctp
+END

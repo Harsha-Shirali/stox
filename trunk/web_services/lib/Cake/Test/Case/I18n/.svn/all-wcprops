@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/I18n
+END
+L10nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/I18n/L10nTest.php
+END
+MultibyteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/I18n/MultibyteTest.php
+END
+I18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/I18n/I18nTest.php
+END

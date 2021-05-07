@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Routing
+END
+RouterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Routing/RouterTest.php
+END
+DispatcherTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Routing/DispatcherTest.php
+END

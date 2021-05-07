@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Configure
+END
+IniReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Configure/IniReaderTest.php
+END
+PhpReaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Configure/PhpReaderTest.php
+END

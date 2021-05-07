@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/default/classes
+END
+controller.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/default/classes/controller.ctp
+END
+fixture.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/default/classes/fixture.ctp
+END
+test.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/default/classes/test.ctp
+END
+model.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/default/classes/model.ctp
+END

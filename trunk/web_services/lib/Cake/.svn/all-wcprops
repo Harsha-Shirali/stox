@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/LICENSE.txt
+END
+VERSION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/VERSION.txt
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/bootstrap.php
+END
+basics.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/basics.php
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/stox_web/!svn/ver/1103/trunk/web_services/1.2/Controller
+END
+GainersController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/GainersController.php
+END
+FaqsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/FaqsController.php
+END
+GamesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/GamesController.php
+END
+ApisController.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/ApisController.php
+END
+WatchlistPreloadsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/WatchlistPreloadsController.php
+END
+BanksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/BanksController.php
+END
+ActivesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/ActivesController.php
+END
+PagesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/PagesController.php
+END
+PortfoliosController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/PortfoliosController.php
+END
+UsersController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/UsersController.php
+END
+WatchlistMappingsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/WatchlistMappingsController.php
+END
+ExchangesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/ExchangesController.php
+END
+UserStocksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/UserStocksController.php
+END
+LosersController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/LosersController.php
+END
+FeedbacksController.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/FeedbacksController.php
+END
+NotificationsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/NotificationsController.php
+END
+SymbolDetailsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/SymbolDetailsController.php
+END
+UserstockHistoriesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/UserstockHistoriesController.php
+END
+ContactsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/ContactsController.php
+END
+AppController.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/AppController.php
+END
+SharesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/SharesController.php
+END
+WatchlistsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/Controller/WatchlistsController.php
+END

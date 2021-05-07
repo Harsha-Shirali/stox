@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View
+END
+JsonView.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/JsonView.php
+END
+ViewBlock.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/ViewBlock.php
+END
+MediaView.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/MediaView.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/View.php
+END
+HelperCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/HelperCollection.php
+END
+XmlView.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/XmlView.php
+END
+ScaffoldView.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/ScaffoldView.php
+END
+ThemeView.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/ThemeView.php
+END
+Helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/View/Helper.php
+END

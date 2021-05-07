@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model
+END
+AcoAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/AcoAction.php
+END
+I18nModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/I18nModel.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/Model.php
+END
+ModelBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/ModelBehavior.php
+END
+Aro.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/Aro.php
+END
+Aco.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/Aco.php
+END
+CakeSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/CakeSchema.php
+END
+AclNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/AclNode.php
+END
+ModelValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/ModelValidator.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/Permission.php
+END
+ConnectionManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/ConnectionManager.php
+END
+BehaviorCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Model/BehaviorCollection.php
+END

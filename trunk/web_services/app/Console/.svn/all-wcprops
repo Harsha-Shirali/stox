@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Console
+END
+cake.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Console/cake.bat
+END
+cake.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Console/cake.php
+END
+cake
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Console/cake
+END

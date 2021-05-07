@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Templates/skel/View/Errors
+END
+error400.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Templates/skel/View/Errors/error400.ctp
+END
+error500.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Templates/skel/View/Errors/error500.ctp
+END

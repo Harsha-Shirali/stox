@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/stox_web/!svn/ver/1056/trunk/web_services/app/Model
+END
+Portfolio.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/953/trunk/web_services/app/Model/Portfolio.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/1032/trunk/web_services/app/Model/User.php
+END
+UserLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1032/trunk/web_services/app/Model/UserLog.php
+END
+Exchange.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/925/trunk/web_services/app/Model/Exchange.php
+END
+UserStock.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1026/trunk/web_services/app/Model/UserStock.php
+END
+Feedback.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/419/trunk/web_services/app/Model/Feedback.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/1026/trunk/web_services/app/Model/Transaction.php
+END
+Sharefeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Model/Sharefeed.php
+END
+Notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/1032/trunk/web_services/app/Model/Notification.php
+END
+SymbolDetail.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/972/trunk/web_services/app/Model/SymbolDetail.php
+END
+Contact.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/stox_web/!svn/ver/477/trunk/web_services/app/Model/Contact.php
+END
+AppModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/101/trunk/web_services/app/Model/AppModel.php
+END
+Share.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/1056/trunk/web_services/app/Model/Share.php
+END
+Watchlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1056/trunk/web_services/app/Model/Watchlist.php
+END
+UserstockHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/1011/trunk/web_services/app/Model/UserstockHistory.php
+END
+Faq.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/487/trunk/web_services/app/Model/Faq.php
+END
+Game.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/867/trunk/web_services/app/Model/Game.php
+END
+WatchlistPreload.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/930/trunk/web_services/app/Model/WatchlistPreload.php
+END
+Bank.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/860/trunk/web_services/app/Model/Bank.php
+END

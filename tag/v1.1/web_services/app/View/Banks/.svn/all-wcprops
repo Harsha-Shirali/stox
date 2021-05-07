@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/add.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/view.ctp
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/admin_edit.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/admin_index.ctp
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/admin_add.ctp
+END
+admin_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/Banks/admin_view.ctp
+END

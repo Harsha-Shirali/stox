@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/TestSuite
+END
+CakeTestFixtureTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/TestSuite/CakeTestFixtureTest.php
+END
+HtmlCoverageReportTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/TestSuite/HtmlCoverageReportTest.php
+END
+CakeTestSuiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/TestSuite/CakeTestSuiteTest.php
+END
+CakeTestCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/TestSuite/CakeTestCaseTest.php
+END
+ControllerTestCaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/TestSuite/ControllerTestCaseTest.php
+END

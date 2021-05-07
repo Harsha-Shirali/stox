@@ -1,0 +1,1443 @@
+2014-11-17 17:46:26 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 17:46:26 Error: Fatal Error (1): Call to undefined method Configure::listObjects() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/AppController.php, line 97]
+2014-11-17 17:46:26 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 97)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-17 17:47:00 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 17:47:00 Error: Fatal Error (1): Call to undefined method Configure::listObjects() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/AppController.php, line 97]
+2014-11-17 17:47:00 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 97)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-17 17:47:04 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 17:47:04 Error: Fatal Error (1): Call to undefined method Configure::listObjects() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/AppController.php, line 97]
+2014-11-17 17:47:04 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 97)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-17 17:47:18 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 17:47:18 Error: Fatal Error (1): Call to undefined method Configure::listObjects() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/AppController.php, line 97]
+2014-11-17 17:47:18 Error: [FatalErrorException] Call to undefined method Configure::listObjects()
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 97)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-17 17:54:42 Error: [MissingControllerException] Controller class GhghhController could not be found.
+Exception Attributes: array (
+  'class' => 'GhghhController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/ghghh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 17:54:42 Error: Fatal Error (1): Call to undefined method Configure::listObjects() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/AppController.php, line 97]
+2014-11-17 17:54:42 Error: [FatalErrorException] Call to undefined method Configure::listObjects()
+Request URL: /stox_web/trunk/web_services/1.1/ghghh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 97)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 97, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-17 17:55:53 Error: [MissingControllerException] Controller class GhghhController could not be found.
+Exception Attributes: array (
+  'class' => 'GhghhController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/ghghh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 17:59:12 Error: [MissingControllerException] Controller class AsfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'AsfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/asfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:00:23 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:01:39 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:01:43 Error: [MissingControllerException] Controller class FasdfadfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfadfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfadf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:04:23 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:13:27 Error: [MissingControllerException] Controller class FasdfasfdController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasfdController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasfd
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:13:42 Error: [MissingControllerException] Controller class FasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:17:38 Error: [MissingControllerException] Controller class FasdfasfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:18:14 Error: [MissingControllerException] Controller class AdsfasdController could not be found.
+Exception Attributes: array (
+  'class' => 'AdsfasdController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/adsfasd
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:20:07 Error: [MissingControllerException] Controller class GController could not be found.
+Exception Attributes: array (
+  'class' => 'GController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/g
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:21:01 Error: [MissingControllerException] Controller class GmController could not be found.
+Exception Attributes: array (
+  'class' => 'GmController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/gm
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:23:21 Error: [MissingControllerException] Controller class GamController could not be found.
+Exception Attributes: array (
+  'class' => 'GamController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/gam
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:28:51 Error: Fatal Error (4): syntax error, unexpected 'exit' (T_EXIT) in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/AppController.php, line 97]
+2014-11-17 18:28:51 Error: [FatalErrorException] syntax error, unexpected 'exit' (T_EXIT)
+Request URL: /stox_web/trunk/web_services/1.1/gamemaster
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/s...', 97)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/s...', 97, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/s...', 97, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-17 18:29:10 Error: [MissingControllerException] Controller class SfsdfController could not be found.
+Exception Attributes: array (
+  'class' => 'SfsdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/sfsdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:33:33 Error: [MissingControllerException] Controller class FasdfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:35:09 Error: [MissingControllerException] Controller class DsfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'DsfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/dsfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:35:27 Error: [MissingControllerException] Controller class FasfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:35:40 Error: [MissingControllerException] Controller class FasfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:37:43 Error: [MissingControllerException] Controller class FasfasfdController could not be found.
+Exception Attributes: array (
+  'class' => 'FasfasfdController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasfasfd
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:37:49 Error: [MissingControllerException] Controller class FasdController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasd
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:38:32 Error: [MissingControllerException] Controller class FasdfasfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:31 Error: [MissingControllerException] Controller class FasdfasfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:36 Error: [MissingControllerException] Controller class FasdfasfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:51 Error: [MissingControllerException] Controller class SdafasfdController could not be found.
+Exception Attributes: array (
+  'class' => 'SdafasfdController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/sdafasfd
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:51 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:51 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:52 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:58 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:58 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:58 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:58 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:40:59 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:29 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:30 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:30 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:40 Error: [MissingControllerException] Controller class FasfasfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasfasfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasfasf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:40 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:40 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:41:41 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:42:41 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Pages/display.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Pages/display.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/pages/display
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName('display')
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render('display', NULL)
+#2 /var/www/html/stox_web/trunk/web_services/1.1/Controller/PagesController.php(73): Controller->render('display')
+#3 [internal function]: PagesController->display('display')
+#4 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-11-17 18:43:21 Error: [MissingControllerException] Controller class SdfsadfController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfsadfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/sdfsadf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:45:52 Error: [MissingControllerException] Controller class GdsaController could not be found.
+Exception Attributes: array (
+  'class' => 'GdsaController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/gdsa
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:45:52 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Pages/home/display.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Pages/home/display.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/pages/display
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName('home/display')
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render('home/display', NULL)
+#2 /var/www/html/stox_web/trunk/web_services/1.1/Controller/PagesController.php(73): Controller->render('home/display')
+#3 [internal function]: PagesController->display('home', 'display')
+#4 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-11-17 18:46:17 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Pages/home/display.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Pages/home/display.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/pages/display
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName('home/display')
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render('home/display', NULL)
+#2 /var/www/html/stox_web/trunk/web_services/1.1/Controller/PagesController.php(73): Controller->render('home/display')
+#3 [internal function]: PagesController->display('home', 'display')
+#4 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-11-17 18:46:21 Error: [MissingControllerException] Controller class SdfasdfasController could not be found.
+Exception Attributes: array (
+  'class' => 'SdfasdfasController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/sdfasdfas
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:48:51 Error: [MissingControllerException] Controller class FasfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:49:10 Error: [MissingControllerException] Controller class GfasdfaController could not be found.
+Exception Attributes: array (
+  'class' => 'GfasdfaController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/gfasdfa
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:53:15 Error: [MissingControllerException] Controller class FasdfasdfController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasdfController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasdf
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:53:24 Error: [MissingControllerException] Controller class PagesnnnhController could not be found.
+Exception Attributes: array (
+  'class' => 'PagesnnnhController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/pagesnnnh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:53:28 Error: [MissingControllerException] Controller class PageshjhhController could not be found.
+Exception Attributes: array (
+  'class' => 'PageshjhhController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/pageshjhh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:53:34 Error: [MissingControllerException] Controller class HjhjjhController could not be found.
+Exception Attributes: array (
+  'class' => 'HjhjjhController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/hjhjjh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 18:53:41 Error: [MissingControllerException] Controller class DffggcghghController could not be found.
+Exception Attributes: array (
+  'class' => 'DffggcghghController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/dffggcghgh
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-17 19:00:16 Error: [MissingControllerException] Controller class FasdfasfasfdasfdController could not be found.
+Exception Attributes: array (
+  'class' => 'FasdfasfasfdasfdController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/fasdfasfasfdasfd
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-12-18 18:03:32 Error: Fatal Error (1): Call to a member function checkShareExists() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Model/Watchlist.php, line 181]
+2014-12-18 18:03:32 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=add_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 181)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 181, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 181, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-18 21:10:18 Error: Fatal Error (1): Call to undefined method ApiComponent::create() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 583]
+2014-12-18 21:10:18 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 583)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 583, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 583, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-19 10:28:01 Error: Fatal Error (4): syntax error, unexpected '=' in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 2550]
+2014-12-19 10:28:01 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=remove_from_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/s...', 2550)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/s...', 2550, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/s...', 2550, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-19 10:44:11 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF) in [/var/www/html/stox_web/trunk/web_services/1.1/Model/Watchlist.php, line 287]
+2014-12-19 10:44:11 Error: [InternalErrorException] Internal Server Error
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=remove_from_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/s...', 287)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/s...', 287, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/s...', 287, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-22 10:16:13 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Portfolios/daytrade_notification.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Portfolios/daytrade_notification.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/portfolios/daytrade_notification
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PortfoliosController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-22 10:16:42 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Portfolios/daytrade_notification.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Portfolios/daytrade_notification.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/portfolios/daytrade_notification
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PortfoliosController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-22 10:16:56 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Portfolios/daytrade_notification.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Portfolios/daytrade_notification.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/portfolios/daytrade_notification
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PortfoliosController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-22 22:30:02 Error: Fatal Error (1): Call to a member function getDetailsByPortfolio() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/PortfoliosController.php, line 200]
+2014-12-22 22:30:02 Error: [FatalErrorException] Call to a member function getDetailsByPortfolio() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/portfolios/daytrade_notification
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 200)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 200, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 200, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-22 22:37:52 Error: Fatal Error (1): Call to a member function getDayTradeUsers() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/PortfoliosController.php, line 195]
+2014-12-22 22:37:52 Error: [FatalErrorException] Call to a member function getDayTradeUsers() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/portfolios/daytrade_notification
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 195)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 195, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 195, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-22 22:55:38 Error: Fatal Error (1): Call to a member function getDetailsByPortfolio() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/PortfoliosController.php, line 200]
+2014-12-22 22:55:38 Error: [FatalErrorException] Call to a member function getDetailsByPortfolio() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/portfolios/daytrade_notification
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 200)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 200, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 200, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-26 12:41:37 Error: APPLE PUSH NOTIFICATION SEND FROM API COMPONENT INSIDE
+2014-12-26 12:41:38 Error: APPLE PUSH NOTIFICATION SEND FROM API COMPONENT INSIDE
+2014-12-26 12:41:40 Error: APPLE PUSH NOTIFICATION SEND FROM API COMPONENT INSIDE
+2014-12-26 12:41:41 Error: APPLE PUSH NOTIFICATION SEND FROM API COMPONENT INSIDE
+2014-12-26 12:41:42 Error: APPLE PUSH NOTIFICATION SEND FROM API COMPONENT INSIDE
+2014-12-29 14:55:32 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-29 14:55:55 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-29 14:56:19 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-12-30 10:29:58 Error: Fatal Error (1): Call to a member function deleteAllRows() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php, line 47]
+2014-12-30 10:29:58 Error: [FatalErrorException] Call to a member function deleteAllRows() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 47, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 47, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-12-30 16:34:24 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('TRUNCATE table;', Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('TRUNCATE table;', Array, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(538): DboSource->fetchAll('TRUNCATE table;')
+#4 [internal function]: DboSource->query('TRUNCATE table;')
+#5 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(3035): call_user_func_array(Array, Array)
+#6 /var/www/html/stox_web/trunk/web_services/1.1/Model/Gainer.php(16): Model->query('TRUNCATE table;')
+#7 /var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php(47): Gainer->deleteAllRows()
+#8 /var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php(16): GainersController->_updateGainersTable()
+#9 [internal function]: GainersController->get_gainers_data()
+#10 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(GainersController), Array)
+#11 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2014-12-31 16:10:49 Error: Fatal Error (1): Call to undefined method LosersController::updateLosersTable() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/LosersController.php, line 80]
+2014-12-31 16:10:49 Error: [FatalErrorException] Call to undefined method LosersController::updateLosersTable()
+Request URL: /stox_web/trunk/web_services/1.1/losers/get_losers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 80)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 80, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 80, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-05 16:06:31 Error: Fatal Error (1): Call to undefined function php_sapi() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/ApisController.php, line 51]
+2015-01-05 16:06:31 Error: [FatalErrorException] Call to undefined function php_sapi()
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=get_share_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 51, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 51, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-06 11:14:16 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-06 11:14:23 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /stox_web/trunk/web_services/1.1/admin
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-07 11:22:30 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Gainers/get_gainers_data.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-13 15:29:43 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'share_id' cannot be null
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `st...', Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `st...')
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(1734): DboSource->create(Object(Gainer), Array, Array)
+#4 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(2237): Model->save(Array, Array)
+#5 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(2044): Model->saveAssociated(Array, Array)
+#6 /var/www/html/stox_web/trunk/web_services/1.1/Model/Gainer.php(18): Model->saveAll(Array)
+#7 /var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php(77): Gainer->saveGainerData(Array)
+#8 /var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php(36): GainersController->_updateGainersTable(Array)
+#9 [internal function]: GainersController->get_gainers_data()
+#10 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(GainersController), Array)
+#11 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-01-13 15:29:43 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'share_id' cannot be null
+Request URL: /stox_web/trunk/web_services/1.1/gainers/get_gainers_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('INSERT INTO `st...', Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(1007): DboSource->execute('INSERT INTO `st...')
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(1734): DboSource->create(Object(Gainer), Array, Array)
+#4 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(2237): Model->save(Array, Array)
+#5 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(2044): Model->saveAssociated(Array, Array)
+#6 /var/www/html/stox_web/trunk/web_services/1.1/Model/Gainer.php(18): Model->saveAll(Array)
+#7 /var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php(77): Gainer->saveGainerData(Array)
+#8 /var/www/html/stox_web/trunk/web_services/1.1/Controller/GainersController.php(36): GainersController->_updateGainersTable(Array)
+#9 [internal function]: GainersController->get_gainers_data()
+#10 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(GainersController), Array)
+#11 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(GainersController), Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-01-27 15:28:42 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/watchlists/make_common_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(WatchlistsController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-27 15:29:21 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/watchlists/make_common_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(WatchlistsController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-27 15:45:14 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/watchlists/make_common_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(WatchlistsController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-27 15:46:21 Error: [MissingViewException] View file "/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/var/www/html/stox_web/trunk/web_services/1.1/View/Watchlists/make_common_watchlist.ctp',
+)
+Request URL: /stox_web/trunk/web_services/1.1/watchlists/make_common_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/View/View.php(467): View->_getViewFileName(NULL)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(947): View->render(NULL, NULL)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(WatchlistsController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-27 15:57:07 Error: Fatal Error (1): Call to undefined method WatchlistsController::getWatchlists() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/WatchlistsController.php, line 90]
+2015-01-27 15:57:07 Error: [FatalErrorException] Call to undefined method WatchlistsController::getWatchlists()
+Request URL: /stox_web/trunk/web_services/1.1/watchlists/make_common_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 90)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 90, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 90, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 15:57:23 Error: Fatal Error (1): Call to undefined method WatchlistsController::getShareIdByPortfolioId() in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/WatchlistsController.php, line 90]
+2015-01-27 15:57:23 Error: [FatalErrorException] Call to undefined method WatchlistsController::getShareIdByPortfolioId()
+Request URL: /stox_web/trunk/web_services/1.1/watchlists/make_common_watchlist
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/var/www/html/s...', 90)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/var/www/html/s...', 90, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/var/www/html/s...', 90, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 17:42:08 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in [/var/www/html/stox_web/trunk/web_services/1.1/Model/Portfolio.php, line 627]
+2015-01-28 17:42:08 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF), expecting ',' or ';'
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/s...', 627)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/s...', 627, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/s...', 627, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 17:43:43 Error: Fatal Error (1): Call to a member function isDefaultPresent() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 390]
+2015-01-28 17:43:43 Error: [FatalErrorException] Call to a member function isDefaultPresent() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 390)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 17:44:30 Error: Fatal Error (1): Call to a member function isDefaultPresent() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 390]
+2015-01-28 17:44:30 Error: [FatalErrorException] Call to a member function isDefaultPresent() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 390)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 17:45:08 Error: Fatal Error (1): Call to a member function isDefaultPresent() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 390]
+2015-01-28 17:45:08 Error: [FatalErrorException] Call to a member function isDefaultPresent() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 390)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 17:45:45 Error: Fatal Error (1): Call to a member function isDefaultPresent() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 390]
+2015-01-28 17:45:45 Error: [FatalErrorException] Call to a member function isDefaultPresent() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 390)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 390, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 17:48:32 Error: [MissingTableException] Table wathclist_mappings for model WathclistMapping was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'wathclist_mappings',
+  'class' => 'WathclistMapping',
+  'ds' => 'default',
+)
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(3217): Model->setSource('wathclist_mappi...')
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(799): Model->getDataSource()
+#2 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(390): Model->__call('isDefaultPresen...', Array)
+#3 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(390): AppModel->isDefaultPresent('272')
+#4 /var/www/html/stox_web/trunk/web_services/1.1/Controller/ApisController.php(128): ApiComponent->create_portfolio(Array)
+#5 [internal function]: ApisController->index()
+#6 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(ApisController), Array)
+#7 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(ApisController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-01-28 17:52:01 Error: [MissingTableException] Table wathclist_mappings for model WathclistMapping was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'wathclist_mappings',
+  'class' => 'WathclistMapping',
+  'ds' => 'default',
+)
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(3217): Model->setSource('wathclist_mappi...')
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(799): Model->getDataSource()
+#2 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(390): Model->__call('isDefaultPresen...', Array)
+#3 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(390): AppModel->isDefaultPresent('273')
+#4 /var/www/html/stox_web/trunk/web_services/1.1/Controller/ApisController.php(128): ApiComponent->create_portfolio(Array)
+#5 [internal function]: ApisController->index()
+#6 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(ApisController), Array)
+#7 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(ApisController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2015-01-28 17:54:41 Error: Fatal Error (1): Call to a member function storeMappings() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 404]
+2015-01-28 17:54:41 Error: [FatalErrorException] Call to a member function storeMappings() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 404)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 404, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 404, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 18:25:41 Error: Fatal Error (4): syntax error, unexpected '$default_portfolio_id' (T_VARIABLE) in [/var/www/html/stox_web/trunk/web_services/1.1/Model/Portfolio.php, line 640]
+2015-01-28 18:25:41 Error: [FatalErrorException] syntax error, unexpected '$default_portfolio_id' (T_VARIABLE)
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/html/s...', 640)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/html/s...', 640, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/html/s...', 640, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 23:04:43 Error: Fatal Error (1): Call to a member function updateDaytradeId() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 405]
+2015-01-28 23:04:43 Error: [FatalErrorException] Call to a member function updateDaytradeId() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 405)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 405, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 405, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-28 23:06:08 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Wathclist.portfolio_id' in 'field list'
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=create_portfolio
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('UPDATE `stox`.`...', Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/Database/Mysql.php(378): DboSource->execute('UPDATE `stox`.`...')
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(2370): Mysql->update(Object(Watchlist), Array, NULL, Array)
+#4 /var/www/html/stox_web/trunk/web_services/1.1/Model/Watchlist.php(511): Model->updateAll(Array, Array)
+#5 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(405): Watchlist->updateDaytradeId('312', '314')
+#6 /var/www/html/stox_web/trunk/web_services/1.1/Controller/ApisController.php(128): ApiComponent->create_portfolio(Array)
+#7 [internal function]: ApisController->index()
+#8 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(ApisController), Array)
+#9 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(ApisController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-01-29 10:08:17 Error: Fatal Error (1): Call to a member function getShareIdByPfId() on a non-object in [/var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php, line 2445]
+2015-01-29 10:08:17 Error: [FatalErrorException] Call to a member function getShareIdByPfId() on a non-object
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=sync_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/html/s...', 2445)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/html/s...', 2445, Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/html/s...', 2445, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-29 10:08:47 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getShareIdByPfId' at line 1
+Request URL: /stox_web/trunk/web_services/1.1/apis?action=sync_data
+Stack Trace:
+#0 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(459): PDOStatement->execute(Array)
+#1 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(425): DboSource->_execute('getShareIdByPfI...', Array)
+#2 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('getShareIdByPfI...', Array, Array)
+#3 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('getShareIdByPfI...', Array, Array)
+#4 /var/www/html/stox_web/trunk/web_services/lib/Cake/Model/Model.php(799): DboSource->query('getShareIdByPfI...', Array, Object(Watchlist))
+#5 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(2445): Model->__call('getShareIdByPfI...', Array)
+#6 /var/www/html/stox_web/trunk/web_services/1.1/Controller/Component/ApiComponent.php(2445): Watchlist->getShareIdByPfId('1')
+#7 /var/www/html/stox_web/trunk/web_services/1.1/Controller/ApisController.php(483): ApiComponent->sync_data(Array)
+#8 [internal function]: ApisController->index()
+#9 /var/www/html/stox_web/trunk/web_services/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(ApisController), Array)
+#10 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/html/stox_web/trunk/web_services/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(ApisController), Object(CakeRequest), Object(CakeResponse))
+#12 /var/www/html/stox_web/trunk/web_services/1.1/webroot/index.php(97): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-03-18 15:17:19 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF), expecting '&' or variable (T_VARIABLE) in [/var/www/stox_web/trunk/web_services/1.3/Controller/Component/ApiComponent.php, line 2506]
+2015-03-18 15:17:19 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF), expecting '&' or variable (T_VARIABLE)
+Request URL: /stox_web/trunk/web_services/1.3/apis
+Stack Trace:
+#0 /var/www/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/stox_w...', 2506)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/stox_w...', 2506, Array)
+#2 /var/www/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/stox_w...', 2506, Array)
+#3 /var/www/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-24 15:16:01 Error: Fatal Error (64): Cannot use [] for reading in [/var/www/stox_web/trunk/web_services/1.3/Model/Watchlist.php, line 443]
+2015-03-24 15:16:01 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /stox_web/trunk/web_services/1.3/apis
+Stack Trace:
+#0 /var/www/stox_web/trunk/web_services/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/var/www/stox_w...', 443)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/var/www/stox_w...', 443, Array)
+#2 /var/www/stox_web/trunk/web_services/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/var/www/stox_w...', 443, Array)
+#3 /var/www/stox_web/trunk/web_services/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

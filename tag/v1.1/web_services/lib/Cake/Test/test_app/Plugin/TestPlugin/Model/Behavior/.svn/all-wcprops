@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Behavior
+END
+TestPluginPersisterOneBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Behavior/TestPluginPersisterOneBehavior.php
+END
+TestPluginPersisterTwoBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Behavior/TestPluginPersisterTwoBehavior.php
+END

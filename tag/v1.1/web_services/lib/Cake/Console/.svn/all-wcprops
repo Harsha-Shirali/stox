@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console
+END
+ConsoleInputArgument.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleInputArgument.php
+END
+Shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/Shell.php
+END
+ConsoleOptionParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleOptionParser.php
+END
+ConsoleErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleErrorHandler.php
+END
+ConsoleInputSubcommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleInputSubcommand.php
+END
+ConsoleInputOption.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleInputOption.php
+END
+HelpFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/HelpFormatter.php
+END
+cake
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/cake
+END
+ShellDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ShellDispatcher.php
+END
+TaskCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/TaskCollection.php
+END
+ConsoleInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleInput.php
+END
+cake.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/cake.bat
+END
+cake.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/cake.php
+END
+ConsoleOutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Console/ConsoleOutput.php
+END

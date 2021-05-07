@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/tmp/logs
+END
+debug.log
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/tmp/logs/debug.log
+END
+error.log
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1099/trunk/web_services/1.2/tmp/logs/error.log
+END

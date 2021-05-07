@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/skel/webroot
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/skel/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/skel/webroot/index.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/skel/webroot/favicon.ico
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Console/Templates/skel/webroot/test.php
+END

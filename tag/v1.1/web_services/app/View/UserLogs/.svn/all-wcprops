@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserLogs
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserLogs/view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserLogs/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserLogs/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/app/View/UserLogs/add.ctp
+END

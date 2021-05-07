@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Http
+END
+HttpSocketTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Http/HttpSocketTest.php
+END
+HttpResponseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Http/HttpResponseTest.php
+END
+DigestAuthenticationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Http/DigestAuthenticationTest.php
+END
+BasicAuthenticationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Network/Http/BasicAuthenticationTest.php
+END

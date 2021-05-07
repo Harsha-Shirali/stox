@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/index.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/bootstrap.php
+END

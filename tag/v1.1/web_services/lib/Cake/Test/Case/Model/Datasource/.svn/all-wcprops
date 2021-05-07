@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource
+END
+DboSourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/DboSourceTest.php
+END
+CakeSessionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/CakeSessionTest.php
+END
+DataSourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/DataSourceTest.php
+END

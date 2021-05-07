@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/stox_web/!svn/ver/1033/trunk/web_services/1.1/View/Errors
+END
+error400.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/1033/trunk/web_services/1.1/View/Errors/error400.ctp
+END
+error500.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/stox_web/!svn/ver/1033/trunk/web_services/1.1/View/Errors/error500.ctp
+END

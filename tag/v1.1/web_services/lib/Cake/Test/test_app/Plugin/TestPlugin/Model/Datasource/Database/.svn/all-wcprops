@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Datasource/Database
+END
+DboDummy.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Datasource/Database/DboDummy.php
+END
+TestDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/test_app/Plugin/TestPlugin/Model/Datasource/Database/TestDriver.php
+END

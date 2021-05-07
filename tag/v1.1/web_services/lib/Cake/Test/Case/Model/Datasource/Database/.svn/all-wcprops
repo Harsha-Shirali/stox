@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/Database
+END
+MysqlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/Database/MysqlTest.php
+END
+PostgresTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/Database/PostgresTest.php
+END
+SqlserverTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/Database/SqlserverTest.php
+END
+SqliteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Test/Case/Model/Datasource/Database/SqliteTest.php
+END

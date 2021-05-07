@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/stox_web/!svn/ver/1110/trunk/web_services
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/stox_web/!svn/ver/4/trunk/web_services/build.properties
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/stox_web/!svn/ver/4/trunk/web_services/.htaccess
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/stox_web/!svn/ver/4/trunk/web_services/README.md
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/stox_web/!svn/ver/4/trunk/web_services/index.php
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/stox_web/!svn/ver/4/trunk/web_services/build.xml
+END
+npm-debug.log
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/stox_web/!svn/ver/4/trunk/web_services/npm-debug.log
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/stox_web/!svn/ver/1040/trunk/web_services/robots.txt
+END

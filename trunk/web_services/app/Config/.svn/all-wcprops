@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/stox_web/!svn/ver/1050/trunk/web_services/app/Config
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/1038/trunk/web_services/app/Config/core.php
+END
+email.php.default
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Config/email.php.default
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/548/trunk/web_services/app/Config/bootstrap.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Config/acl.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1050/trunk/web_services/app/Config/routes.php
+END
+database.php (copy).default
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Config/database.php%20(copy).default
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/718/trunk/web_services/app/Config/database.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1045/trunk/web_services/app/Config/config.php
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/36/trunk/web_services/app/Config/email.php
+END

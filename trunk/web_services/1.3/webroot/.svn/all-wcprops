@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/test.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/robots.txt
+END
+test_curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/test_curl.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/index.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/favicon.ico
+END
+npm-debug.log
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/npm-debug.log
+END
+client.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/client.html
+END
+server.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/server.js
+END
+files
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stox_web/!svn/ver/1111/trunk/web_services/1.3/webroot/files
+END

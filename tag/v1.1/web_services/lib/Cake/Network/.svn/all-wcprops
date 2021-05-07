@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Network
+END
+CakeResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Network/CakeResponse.php
+END
+CakeRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Network/CakeRequest.php
+END
+CakeSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/681/tag/v1.1/web_services/lib/Cake/Network/CakeSocket.php
+END

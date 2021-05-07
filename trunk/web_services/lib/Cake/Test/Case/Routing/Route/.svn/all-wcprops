@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Routing/Route
+END
+PluginShortRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Routing/Route/PluginShortRouteTest.php
+END
+RedirectRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Routing/Route/RedirectRouteTest.php
+END
+CakeRouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Test/Case/Routing/Route/CakeRouteTest.php
+END

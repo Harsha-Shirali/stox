@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth
+END
+BasicAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/BasicAuthenticate.php
+END
+FormAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/FormAuthenticate.php
+END
+BaseAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/BaseAuthorize.php
+END
+CrudAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/CrudAuthorize.php
+END
+BaseAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/BaseAuthenticate.php
+END
+ActionsAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/ActionsAuthorize.php
+END
+BlowfishAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/BlowfishAuthenticate.php
+END
+ControllerAuthorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/ControllerAuthorize.php
+END
+DigestAuthenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/stox_web/!svn/ver/4/trunk/web_services/lib/Cake/Controller/Component/Auth/DigestAuthenticate.php
+END

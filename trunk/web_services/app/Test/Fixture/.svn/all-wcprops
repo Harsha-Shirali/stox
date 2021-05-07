@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Test/Fixture
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Test/Fixture/empty
+END
+ExchangeFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Test/Fixture/ExchangeFixture.php
+END
+SharefeedFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/stox_web/!svn/ver/4/trunk/web_services/app/Test/Fixture/SharefeedFixture.php
+END
